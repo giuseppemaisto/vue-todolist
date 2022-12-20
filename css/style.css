@@ -3,3 +3,28 @@
     margin: 0;
     box-sizing: border-box;
 }
+.todolist-container{
+    border: 1px solid gray;
+    border-radius: 20px;
+}
+.list-item{
+    padding: 20px;
+}
+
+.stroked{
+    text-decoration: line-through;
+}
+.button{
+    width: 50px;
+    height: 20px;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    background-color: red;
+    padding-bottom: 20px;
+}
+.button-succes{
+    color: white;
+    width: 200px;
+    background-color: rgb(108, 108, 236);
+}
